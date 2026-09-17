@@ -8,7 +8,7 @@ else if(C <= 100)
 {
     console.log("liquide");
 }
-else ( C >= 100)
+else if ( C > 100)
 {
     console.log("Gaz");
 }
